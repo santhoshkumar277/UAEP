@@ -16,16 +16,4 @@ Dependencies
   matplotlib.pyplot	"pip install matplotlib"
   seaborn		"pip install seaborn"
   numpy			"pip install numpy"
-  pandas		"pip install pandas"
-
-
-To Run this Project
-
-Download/clone this repository from this link: "https://github.com/khairmuhammad/Graduate_Admission_Prediction" in your system. 
-Open command line (anaconda prompt), go to the folder that contains all project files. Then run the command "python app.py" 
-which will give you an address like "localhost:5000" or "localhost:8050" copy that and paste it in the address bar of web browser. 
-Project's interface will load on the web browser.
-
-Furthermore, I have deployed this project as web app on heroku. To visit that web app copy and paste this link in the address bar of
-web browser. Link: "https://graduate-admission-prediction0.herokuapp.com/"
- 
+  pandas		"pip install pandas" 
